@@ -1,0 +1,11 @@
+.\flash\blockdodger.o: blockDodger.c
+.\flash\blockdodger.o: .\inc\LPC17xx.h
+.\flash\blockdodger.o: .\inc\core_cm3.h
+.\flash\blockdodger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\blockdodger.o: .\inc\system_LPC17xx.h
+.\flash\blockdodger.o: .\inc\LPC17xx.h
+.\flash\blockdodger.o: GLCD.h
+.\flash\blockdodger.o: KBD.h
+.\flash\blockdodger.o: LED.h
+.\flash\blockdodger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\blockdodger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

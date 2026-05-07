@@ -1,0 +1,10 @@
+.\flash\blockdodgersimple.o: blockDodgerSimple.c
+.\flash\blockdodgersimple.o: .\inc\LPC17xx.h
+.\flash\blockdodgersimple.o: .\inc\core_cm3.h
+.\flash\blockdodgersimple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\blockdodgersimple.o: .\inc\system_LPC17xx.h
+.\flash\blockdodgersimple.o: .\inc\LPC17xx.h
+.\flash\blockdodgersimple.o: GLCD.h
+.\flash\blockdodgersimple.o: KBD.h
+.\flash\blockdodgersimple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\flash\blockdodgersimple.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
